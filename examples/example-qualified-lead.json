@@ -1,0 +1,95 @@
+{
+  "handle": "mara_hollis",
+  "score": 94,
+  "tier": "HIGH",
+  "positiveSignals": [
+    {
+      "id": "decision_maker",
+      "label": "Founder / decision-maker",
+      "polarity": "positive",
+      "weight": 14,
+      "evidence": "bio: \"Founder & CEO @ Ledgermoor. Month-end clos…\""
+    },
+    {
+      "id": "buying_intent",
+      "label": "Buying / intent signal",
+      "polarity": "positive",
+      "weight": 12,
+      "evidence": "post 2d ago: \"…to $5M. Hiring our first SDR this quarter. If you've built outb…\""
+    },
+    {
+      "id": "problem_fit",
+      "label": "Clear problem we solve",
+      "polarity": "positive",
+      "weight": 12,
+      "evidence": "\"…ame from a referral or a conference. Great problem to have, until it i…\""
+    },
+    {
+      "id": "b2b",
+      "label": "B2B company",
+      "polarity": "positive",
+      "weight": 10,
+      "evidence": "Ledgermoor: b2b software"
+    },
+    {
+      "id": "clear_offer",
+      "label": "Clear commercial offer",
+      "polarity": "positive",
+      "weight": 10,
+      "evidence": "Close-automation platform, annual contracts from $18k"
+    },
+    {
+      "id": "business_maturity",
+      "label": "Revenue / business maturity",
+      "polarity": "positive",
+      "weight": 10,
+      "evidence": "$1.2M ARR (founder post, 2026-03-13)"
+    },
+    {
+      "id": "client_results",
+      "label": "Client / customer results",
+      "polarity": "positive",
+      "weight": 8,
+      "evidence": "6 case studies, 9 testimonials"
+    },
+    {
+      "id": "credible_website",
+      "label": "Credible website",
+      "polarity": "positive",
+      "weight": 6,
+      "evidence": "ledgermoor.example"
+    },
+    {
+      "id": "recent_activity",
+      "label": "Posted in last 7 days",
+      "polarity": "positive",
+      "weight": 4,
+      "evidence": "last post 2d ago"
+    },
+    {
+      "id": "tier1_market",
+      "label": "English-speaking Tier 1 market",
+      "polarity": "positive",
+      "weight": 4,
+      "evidence": "US"
+    },
+    {
+      "id": "relevant_model",
+      "label": "High-value B2B model",
+      "polarity": "positive",
+      "weight": 4,
+      "evidence": "high-ticket pricing"
+    }
+  ],
+  "negativeSignals": [],
+  "reasoning": "HIGH at 94. 11/12 positive signals, led by founder / decision-maker, buying / intent signal, clear problem we solve. No negative signals. Confidence high.",
+  "confidence": "high",
+  "recommendedAction": "dm",
+  "outreachAngle": "About to hire for outbound. A new SDR needs a qualified pipeline on day one; the system builds it, and it's a cheaper test than a hire.",
+  "draft": {
+    "kind": "dm",
+    "to": "mara_hollis",
+    "text": "Hey Mara, saw you're hiring your first SDR. In my experience first SDRs stall on research, not calls. Will yours inherit an account list with a reason to contact each one, or is building that part of the job?",
+    "rationale": "HIGH 94, angle: pre_hire. About to hire for outbound. A new SDR needs a qualified pipeline on day one; the system builds it, and it's a cheaper test than a hire."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "candidate": {
+    "handle": "mara_hollis",
+    "source": "mock-x-search",
+    "query": "founder-led sales",
+    "triggerPostId": "p-mh-1",
+    "triggerPostedAt": "2026-03-13T15:20:00Z"
+  },
+  "profile": {
+    "handle": "mara_hollis",
+    "displayName": "Mara Hollis",
+    "bio": "Founder & CEO @ Ledgermoor. Month-end close automation for accounting firms. Ex-Big4, recovering auditor.",
+    "location": "Austin, TX",
+    "followers": 4800,
+    "following": 610,
+    "accountCreatedAt": "2019-04-02T00:00:00Z",
+    "postsLast30d": 6,
+    "lastPostAt": "2026-03-13T15:20:00Z",
+    "website": "ledgermoor.example"
+  },
+  "recentPosts": [
+    {
+      "id": "p-mh-1",
+      "handle": "mara_hollis",
+      "postedAt": "2026-03-13T15:20:00Z",
+      "likes": 212,
+      "replies": 48,
+      "text": "Founder-led sales got us to $1.2M ARR. It will not get us to $5M. Hiring our first SDR this quarter. If you've built outbound for a vertical SaaS, I'd love to hear what you'd do differently."
+    },
+    {
+      "id": "p-mh-2",
+      "handle": "mara_hollis",
+      "postedAt": "2026-03-10T13:00:00Z",
+      "likes": 96,
+      "replies": 14,
+      "text": "Signed our 40th accounting firm this month. Every single one came from a referral or a conference. Great problem to have, until it isn't."
+    },
+    {
+      "id": "p-mh-3",
+      "handle": "mara_hollis",
+      "postedAt": "2026-03-04T10:15:00Z",
+      "likes": 51,
+      "replies": 6,
+      "text": "Most firms lose 3 days of every month-end to reconciliations nobody owns. Assign an owner before you buy software."
+    }
+  ],
+  "company": {
+    "domain": "ledgermoor.example",
+    "name": "Ledgermoor",
+    "oneLiner": "Month-end close automation for mid-size accounting firms.",
+    "category": "b2b_software",
+    "offer": "Close-automation platform, annual contracts from $18k",
+    "pricing": "high_ticket",
+    "caseStudies": 6,
+    "testimonials": 9,
+    "teamSize": 14,
+    "hqCountry": "US",
+    "revenueHint": "$1.2M ARR (founder post, 2026-03-13)",
+    "hiringFor": [
+      "SDR",
+      "Customer Success Manager"
+    ],
+    "siteQuality": "solid"
+  }
+}
